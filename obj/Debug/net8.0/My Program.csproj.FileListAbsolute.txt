@@ -1,0 +1,28 @@
+C:\Users\LegioN\Desktop\My Program\bin\Debug\net8.0\My Program.exe
+C:\Users\LegioN\Desktop\My Program\bin\Debug\net8.0\My Program.deps.json
+C:\Users\LegioN\Desktop\My Program\bin\Debug\net8.0\My Program.runtimeconfig.json
+C:\Users\LegioN\Desktop\My Program\bin\Debug\net8.0\My Program.dll
+C:\Users\LegioN\Desktop\My Program\bin\Debug\net8.0\My Program.pdb
+C:\Users\LegioN\Desktop\My Program\obj\Debug\net8.0\My Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LegioN\Desktop\My Program\obj\Debug\net8.0\My Program.AssemblyInfoInputs.cache
+C:\Users\LegioN\Desktop\My Program\obj\Debug\net8.0\My Program.AssemblyInfo.cs
+C:\Users\LegioN\Desktop\My Program\obj\Debug\net8.0\My Program.csproj.CoreCompileInputs.cache
+C:\Users\LegioN\Desktop\My Program\obj\Debug\net8.0\My Program.dll
+C:\Users\LegioN\Desktop\My Program\obj\Debug\net8.0\refint\My Program.dll
+C:\Users\LegioN\Desktop\My Program\obj\Debug\net8.0\My Program.pdb
+C:\Users\LegioN\Desktop\My Program\obj\Debug\net8.0\My Program.genruntimeconfig.cache
+C:\Users\LegioN\Desktop\My Program\obj\Debug\net8.0\ref\My Program.dll
+C:\Users\LegioN\Desktop\Unity\bin\Debug\net8.0\My Program.exe
+C:\Users\LegioN\Desktop\Unity\bin\Debug\net8.0\My Program.deps.json
+C:\Users\LegioN\Desktop\Unity\bin\Debug\net8.0\My Program.runtimeconfig.json
+C:\Users\LegioN\Desktop\Unity\bin\Debug\net8.0\My Program.dll
+C:\Users\LegioN\Desktop\Unity\bin\Debug\net8.0\My Program.pdb
+C:\Users\LegioN\Desktop\Unity\obj\Debug\net8.0\My Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LegioN\Desktop\Unity\obj\Debug\net8.0\My Program.AssemblyInfoInputs.cache
+C:\Users\LegioN\Desktop\Unity\obj\Debug\net8.0\My Program.AssemblyInfo.cs
+C:\Users\LegioN\Desktop\Unity\obj\Debug\net8.0\My Program.csproj.CoreCompileInputs.cache
+C:\Users\LegioN\Desktop\Unity\obj\Debug\net8.0\My Program.dll
+C:\Users\LegioN\Desktop\Unity\obj\Debug\net8.0\refint\My Program.dll
+C:\Users\LegioN\Desktop\Unity\obj\Debug\net8.0\My Program.pdb
+C:\Users\LegioN\Desktop\Unity\obj\Debug\net8.0\My Program.genruntimeconfig.cache
+C:\Users\LegioN\Desktop\Unity\obj\Debug\net8.0\ref\My Program.dll
